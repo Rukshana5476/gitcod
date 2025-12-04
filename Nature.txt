@@ -1,1 +1,4 @@
-Nature
+<center>
+<h1>Nature<h1>
+</center>
+<hr>
